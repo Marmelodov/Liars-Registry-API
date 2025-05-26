@@ -28,7 +28,7 @@ Where things are (files, links, URLs)
 - all in github repository.
 
 What your backup plans are (if someone can't make a meeting, for example)
-- Email is main communication which asynchrous so shouldn't be a problem.  We will meet if necessary.
+- Email is main communication which is asynchrous so shouldn't be a problem.  We will meet if necessary.
 
 ## Portfolio documentation milestones
 
