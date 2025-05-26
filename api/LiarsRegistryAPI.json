@@ -1,0 +1,223 @@
+{
+  "liars": [
+    {
+      "id": "liar-1",
+      "name": "Jussie Smollett",
+      "profession": "Actor",
+      "notability": "Known for starring in the TV series *Empire* and later for staging a false hate crime.",
+      "summary": "Jussie Smollett is an American actor and singer who rose to prominence for his role in the television series *Empire*. In 2019, he became the subject of national controversy after falsely reporting that he was the victim of a racist and homophobic attack, a claim that was later proven to be fabricated."
+    },
+    {
+      "id": "liar-2",
+      "name": "Taylor Swift",
+      "profession": "Musician",
+      "notability": "Internationally acclaimed singer-songwriter and cultural icon.",
+      "summary": "Taylor Swift is an American singer-songwriter known for her narrative songwriting and global pop success. Her career includes multiple Grammy wins and record-breaking albums. She was involved in a public controversy over her denial of approving Kanye West’s lyrics about her in the 2016 song 'Famous,' a claim challenged by leaked footage of a phone call."
+    },
+    {
+      "id": "liar-3",
+      "name": "Wes Cooley",
+      "profession": "Politician",
+      "notability": "Former U.S. Representative from Oregon, known for falsely claiming military service.",
+      "summary": "Wes Cooley served a single term as a U.S. Congressman from Oregon in the 1990s. His political career collapsed after it was revealed that he falsely claimed to have served in the U.S. Army Special Forces during the Korean War. He was indicted and convicted for filing a false document."
+    },
+    {
+      "id": "liar-4",
+      "name": "Orlando Figes",
+      "profession": "Historian",
+      "notability": "Renowned scholar of Russian history and author of several popular historical works.",
+      "summary": "Orlando Figes is a British historian and academic, best known for his work on Russian history. In 2010, he was exposed for posting anonymous Amazon reviews that praised his own books while disparaging those of his peers. He initially denied responsibility, then confessed after evidence surfaced."
+    },
+    {
+      "id": "liar-5",
+      "name": "Amber Rudd",
+      "profession": "Politician",
+      "notability": "Former UK Home Secretary and Member of Parliament.",
+      "summary": "Amber Rudd is a British Conservative politician who served as Home Secretary from 2016 to 2018. She resigned following the Windrush scandal after it was revealed that she falsely claimed to be unaware of immigration removal targets, despite documentary evidence to the contrary."
+    }
+  ],
+  "lies": [
+    {
+      "id": "lie-001",
+      "liar_id": "liar-1",
+      "description": "Jussie Smollett claimed he was the victim of a racist and homophobic attack by two white men wearing MAGA hats in Chicago on January 29, 2019.",
+      "context": "Smollett reported the alleged attack to Chicago police and later discussed it in national interviews, claiming the attackers yelled 'This is MAGA country' while physically assaulting him and placing a noose around his neck.",
+      "putative_motive": "To increase his public profile and salary by portraying himself as a victim of hate crime violence.",
+      "date": "2019-01-29",
+      "sources": [
+        "https://www.bbc.com/news/newsbeat-47317701",
+        "https://www.npr.org/2022/03/10/1085718072/jussie-smollett-sentence",
+        "https://www.cnn.com/2021/12/09/us/jussie-smollett-trial-thursday/index.html"
+      ],
+      "recantation": [],
+      "disputation": [
+        "https://www.nbcnews.com/news/us-news/jussie-smollett-guilty-filing-false-police-report-attack-rcna7889",
+        "https://www.nytimes.com/2021/12/09/us/jussie-smollett-verdict.html"
+      ],
+      "subject_ids": ["subject-hate-crimes", "subject-celebrity-deception", "subject-hoaxes"],
+      "notes": "Smollett has maintained his innocence and has not recanted the claim, despite being convicted by a jury in 2021 on five counts of disorderly conduct related to filing a false police report. The men he hired to carry out the staged attack testified against him."
+    },
+    {
+      "id": "lie-002",
+      "liar_id": "liar-2",
+      "description": "Taylor Swift claimed she was never told about being mentioned in Kanye West’s song 'Famous' and did not approve the lyrics.",
+      "context": "In 2016, after Kanye West released the song 'Famous' with the lyrics 'I feel like me and Taylor might still have sex / Why? I made that bitch famous,' Swift’s representatives stated she had never been informed about the specific lyric and had not approved it. However, a video later surfaced of Kanye reading part of the lyric to her over the phone, and Swift approving it.",
+      "putative_motive": "To maintain public image as a wronged party and distance herself from offensive or controversial content.",
+      "date": "2016-02-15",
+      "sources": [
+        "https://www.nytimes.com/2016/07/19/arts/music/taylor-swift-kanye-west-kim-kardashian-famous.html",
+        "https://www.rollingstone.com/music/music-news/taylor-swift-kanye-west-famous-controversy-969762/",
+        "https://www.bbc.com/news/newsbeat-36415625"
+      ],
+      "recantation": [],
+      "disputation": [
+        "https://www.vulture.com/2020/03/taylor-swift-kanye-west-famous-phone-call-video-leaked.html",
+        "https://www.theguardian.com/music/2020/mar/24/taylor-swift-kanye-west-phone-call-video-kim-kardashian"
+      ],
+      "subject_ids": ["subject-celebrity-conflict", "subject-music-industry", "subject-public-image"],
+      "notes": "The leaked phone call shows Swift agreeing to Kanye using her name and referencing the idea they might have sex, though not the line calling her a 'bitch.' The dispute centers on whether the lyric she approved was the final one. Swift has not recanted, maintaining she was never informed of the exact offensive wording."
+    },
+    {
+      "id": "lie-003",
+      "liar_id": "liar-3",
+      "description": "Wes Cooley claimed in official campaign materials that he served in the U.S. Army Special Forces in Korea.",
+      "context": "During his 1994 campaign for U.S. Congress, Cooley’s voter pamphlet biography stated that he had served in the Army Special Forces during the Korean War. The *Oregonian* and other outlets later investigated and found that while Cooley had served briefly in the Army, he was never in Special Forces and had not seen combat in Korea.",
+      "putative_motive": "To enhance his patriotic credentials and military record during a political campaign.",
+      "date": "1994-10-01",
+      "sources": [
+        "https://www.nytimes.com/1996/07/25/us/congressman-is-indicted-in-oregon-over-false-claims.html",
+        "https://www.latimes.com/archives/la-xpm-1996-07-25-mn-27849-story.html",
+        "https://www.washingtonpost.com/archive/politics/1996/07/25/ore-congressman-indicted-on-false-claim/2d96dce7-8a8f-48b0-8494-f66f7f9b1ac1/"
+      ],
+      "recantation": [],
+      "disputation": [],
+      "subject_ids": ["subject-stolen-valor", "subject-political-deception", "subject-military-records"],
+      "notes": "Cooley was indicted for making false statements and eventually withdrew from his reelection race. He was convicted of filing a false document and sentenced to probation and a fine. His case is one of the better-known examples of 'stolen valor' in American politics."
+    },
+    {
+      "id": "lie-004",
+      "liar_id": "liar-4",
+      "description": "Orlando Figes claimed he did not write anonymous Amazon reviews praising his own books and disparaging the works of fellow historians.",
+      "context": "In 2010, a series of anonymously posted Amazon reviews were discovered that lavishly praised Figes’s books while harshly criticizing those of other historians. After initial denials and legal threats, including a claim by his wife that she was responsible, Figes later admitted to writing the reviews himself.",
+      "putative_motive": "To boost his book sales and reputation while undermining professional rivals.",
+      "date": "2010-04-16",
+      "sources": [
+        "https://www.theguardian.com/books/2010/oct/01/orlando-figes-amazon-reviews",
+        "https://www.nytimes.com/2010/10/02/world/europe/02historians.html",
+        "https://www.telegraph.co.uk/news/uknews/8016072/Orlando-Figes-I-wrote-amazon-reviews.html"
+      ],
+      "recantation": [
+        "https://www.theguardian.com/books/2010/oct/01/orlando-figes-amazon-reviews",
+        "https://www.nytimes.com/2010/10/02/world/europe/02historians.html"
+      ],
+      "disputation": [],
+      "subject_ids": ["subject-academic-dishonesty", "subject-reputation-management", "subject-book-reviews"],
+      "notes": "Figes initially denied responsibility and allowed his lawyer to issue legal threats to others accusing him. He later admitted to writing the reviews and apologized. The incident caused lasting damage to his professional credibility."
+    },
+    {
+      "id": "lie-005",
+      "liar_id": "liar-5",
+      "description": "Amber Rudd claimed she was unaware that the Home Office had targets for removing illegal immigrants.",
+      "context": "In April 2018, during testimony before the Home Affairs Select Committee, then–Home Secretary Amber Rudd stated she had not seen or approved any targets for deporting illegal immigrants. However, a leaked memo from her office contradicted this, showing she was informed of and supported increasing these targets.",
+      "putative_motive": "To distance herself from the political fallout of the Windrush scandal and avoid accountability for enforcement policies.",
+      "date": "2018-04-25",
+      "sources": [
+        "https://www.bbc.com/news/uk-politics-43935435",
+        "https://www.theguardian.com/uk-news/2018/apr/27/amber-rudd-knew-of-immigration-removal-targets-leaked-letter-reveals",
+        "https://www.independent.co.uk/news/uk/politics/amber-rudd-resignation-letter-windrush-immigration-removal-targets-home-office-a8329296.html"
+      ],
+      "recantation": [
+        "https://www.bbc.com/news/uk-politics-43935435"
+      ],
+      "disputation": [],
+      "subject_ids": ["subject-government-accountability", "subject-immigration-policy", "subject-political-deception"],
+      "notes": "Rudd resigned as Home Secretary on April 29, 2018, stating she had 'inadvertently misled' Parliament. Critics argued the denial was an attempt to shield herself from blame for the mistreatment of Windrush-era residents."
+    }
+  ],
+  "subjects": [
+  {
+    "id": "subject-hate-crimes",
+    "name": "False Hate Crime Allegations",
+    "description": "Lies involving fabricated or misleading claims of being targeted in a hate crime, often invoking race, sexuality, or political affiliation.",
+    "lies": ["lie-001"]
+  },
+  {
+    "id": "subject-celebrity-deception",
+    "name": "Celebrity Image Manipulation",
+    "description": "Lies told by public figures to control their public narrative, protect their brand, or harm the reputation of others.",
+    "lies": ["lie-001"]
+  },
+  {
+    "id": "subject-hoaxes",
+    "name": "Hoaxes",
+    "description": "Deliberate fabrications intended to deceive the public or authorities, often gaining media attention before being debunked.",
+    "lies": ["lie-001"]
+  },
+  {
+    "id": "subject-celebrity-conflict",
+    "name": "Celebrity Feuds and Misrepresentation",
+    "description": "Lies or denials related to interpersonal conflicts between celebrities, often involving conflicting accounts of approval, intent, or context.",
+    "lies": ["lie-002"]
+  },
+  {
+    "id": "subject-music-industry",
+    "name": "Music Industry Ethics",
+    "description": "Lies involving musical artists, rights disputes, song lyrics, or controversies over professional consent and representation.",
+    "lies": ["lie-002"]
+  },
+  {
+    "id": "subject-public-image",
+    "name": "Public Image Management",
+    "description": "Falsehoods aimed at maintaining or improving a public figure’s image, especially during or after public controversies.",
+    "lies": ["lie-002"]
+  },
+  {
+    "id": "subject-stolen-valor",
+    "name": "Stolen Valor",
+    "description": "False claims about military service or honors, typically made to boost one's credentials or public standing.",
+    "lies": ["lie-003"]
+  },
+  {
+    "id": "subject-political-deception",
+    "name": "Political Deception",
+    "description": "Lies told by politicians or public officials for electoral advantage, reputation defense, or policy concealment.",
+    "lies": ["lie-003", "lie-005"]
+  },
+  {
+    "id": "subject-military-records",
+    "name": "Military Record Falsification",
+    "description": "Falsehoods related to one's military background, typically involving exaggerated roles, ranks, or honors.",
+    "lies": ["lie-003"]
+  },
+  {
+    "id": "subject-academic-dishonesty",
+    "name": "Academic Misconduct",
+    "description": "Lies told within scholarly or intellectual settings, often involving plagiarism, false credentials, or manipulated peer perceptions.",
+    "lies": ["lie-004"]
+  },
+  {
+    "id": "subject-reputation-management",
+    "name": "Reputation Management Fraud",
+    "description": "Use of deception to artificially enhance or protect one’s standing in professional or public spheres.",
+    "lies": ["lie-004"]
+  },
+  {
+    "id": "subject-book-reviews",
+    "name": "Manipulation of Book Reviews",
+    "description": "False or anonymous reviews intended to boost an author's reputation or discredit competing works.",
+    "lies": ["lie-004"]
+  },
+  {
+    "id": "subject-government-accountability",
+    "name": "Government Accountability",
+    "description": "Lies told by public officials that undermine trust in democratic oversight, transparency, or accurate policymaking.",
+    "lies": ["lie-005"]
+  },
+  {
+    "id": "subject-immigration-policy",
+    "name": "Immigration Policy Misrepresentation",
+    "description": "Lies related to the existence, scope, or implementation of immigration enforcement and removal policies.",
+    "lies": ["lie-005"]
+  }
+]
+}
