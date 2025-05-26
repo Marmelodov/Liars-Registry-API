@@ -16,7 +16,7 @@ Intended users: Journalists, researchers, anyone with an enthusiasm for lowering
 ## Plan
 
 How and when you'll communicate
-- We will communicate via email
+- We will communicate via email.
   
 Who is responsible for what duties and deliverables
 - TW is responsible for documentation deliverables with help from SME as needed.
