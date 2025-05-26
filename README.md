@@ -8,7 +8,9 @@ Intended users: Journalists, researchers, anyone with an enthusiasm for lowering
 ## Resources
 
 /lies  –  Searchable database of falsehoods with metadata (liar, date, topic).
+
 /liars   –  List of public figures with links to the lies they’ve told. 
+
 /subjects –  List of topics on which lies have been told, such as the War in Iraq and #MeToo. 
 
 
