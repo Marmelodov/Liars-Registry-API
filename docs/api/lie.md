@@ -23,13 +23,25 @@ Sample `lie` resource
 ```js
 
 {
-    "user_id": 1,
-    "title": "Grocery shopping",
-    "description": "eggs, bacon, gummy bears",
-    "due_date": "2025-02-20T17:00",
-    "warning": "-10",
-    "id": 1
-}
+      "id": "lie-001",
+      "liar_id": "liar-1",
+      "description": "Jussie Smollett claimed he was the victim of a racist and homophobic attack by two white men wearing MAGA hats in Chicago on January 29, 2019.",
+      "context": "Smollett reported the alleged attack to Chicago police and later discussed it in national interviews, claiming the attackers yelled 'This is MAGA country' while physically assaulting him and placing a noose around his neck.",
+      "putative_motive": "To increase his public profile and salary by portraying himself as a victim of hate crime violence.",
+      "date": "2019-01-29",
+      "sources": [
+        "https://www.bbc.com/news/newsbeat-47317701",
+        "https://www.npr.org/2022/03/10/1085718072/jussie-smollett-sentence",
+        "https://www.cnn.com/2021/12/09/us/jussie-smollett-trial-thursday/index.html"
+      ],
+      "recantation": [],
+      "disputation": [
+        "https://www.nbcnews.com/news/us-news/jussie-smollett-guilty-filing-false-police-report-attack-rcna7889",
+        "https://www.nytimes.com/2021/12/09/us/jussie-smollett-verdict.html"
+      ],
+      "subject_ids": ["subject-hate-crimes", "subject-celebrity-deception", "subject-hoaxes"],
+      "notes": "Smollett has maintained his innocence and has not recanted the claim, despite being convicted by a jury in 2021 on five counts of disorderly conduct related to filing a false police report. The men he hired to carry out the staged attack testified against him."
+    },
 ```
 
 | Property name | Type | Description |
