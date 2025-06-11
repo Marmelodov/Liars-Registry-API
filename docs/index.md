@@ -23,7 +23,7 @@ the To-Do service, try one of these overview topics.
 
 ## Tutorials
 
-Learn how to do common tasks with in the To-Do service.
+Learn how to do common tasks with in the Liars-Registry-API.
 
 First, do this tutorial to set up your development system for these tutorials. You only have to do this one time per development system.
 
@@ -31,8 +31,8 @@ First, do this tutorial to set up your development system for these tutorials. Y
 
 After your system is ready, these tutorials show you how to perform common tasks.
 
-* [Enroll a new liar](tutorials/enroll-a-new-user.md)
-* [Add a new lie](tutorials/add-a-new-task.md)
+* [Enroll a new liar](tutorials/enroll-a-new-liar.md)
+* [Add a new lie](tutorials/add-a-new-lie.md)
 * [Delete a liar _(coming soon)_](#tutorials)
 
 ## API reference docs
