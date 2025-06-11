@@ -4,7 +4,7 @@ This tutorial shows you how to download the API files and try one of the availab
 ## Step 1: Make sure you have the API files
 The files are located in the [Liars Registry API](https://github.com/tihsle/Liars-Registry-API) on GitHub. The directory contains the following files:
 
-- `liars-registry-api.json`: a JSON file containing liars registry database.
+- `LiarsRegistryAPI.json`: a JSON file containing liars registry database.
 - `start-server.sh`: a shell script that starts JSON Server. Use this for Linux or macOS.
 - `start-server.bat`: a batch file that starts JSON Server. Use this for Windows.
 
