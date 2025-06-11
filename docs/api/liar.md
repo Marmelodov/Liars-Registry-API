@@ -39,7 +39,7 @@ Sample `liar` resource
 | `name` | string | The liar's name |
 | `profession` | string | The liar's profession |
 | `notability` | string | The liar's claim to fame |
-| `summary` | string | The liar's bigoraphy |
+| `summary` | string | The liar's biography |
 | `id` | number | The user's unique record ID |
 
 ## Read operations
