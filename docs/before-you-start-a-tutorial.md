@@ -5,7 +5,7 @@ layout: page
 # Before you start a tutorial
 
 These are the steps you must do before you can run
-the tutorials for the **To-Do service**.
+the tutorials for the **Liars Registry API service**.
 
 Expect this preparation to take about 20 minutes to complete.
 
