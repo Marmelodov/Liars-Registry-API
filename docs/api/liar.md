@@ -21,23 +21,25 @@ Learn more about the [lie resource](lie.md).
 
 ## Resource properties
 
-Sample `user` resource
+Sample `liar` resource
 
 ```js
 
-{
-    "last_name": "Smith",
-    "first_name": "Ferdinand",
-    "email": "f.smith@example.com",
-    "id": 1
-}
+ {
+      "id": "liar-1",
+      "name": "Jussie Smollett",
+      "profession": "Actor",
+      "notability": "Known for starring in the TV series *Empire* and later for staging a false hate crime.",
+      "summary": "Jussie Smollett is an American actor and singer who rose to prominence for his role in the television series *Empire*. In 2019, he became the subject of national controversy after falsely reporting that he was the victim of a racist and homophobic attack, a claim that was later proven to be fabricated."
+    },
 ```
 
 | Property name | Type | Description |
 | ------------- | ----------- | ----------- |
-| `last_name` | string | The user's last name |
-| `first_name` | string | The user's first name |
-| `email` | string | The user's email address |
+| `name` | string | The liar's name |
+| `profession` | string | The liar's profession |
+| `notability` | string | The liar's claim to fame |
+| `summary` | string | The liar's bigoraphy |
 | `id` | number | The user's unique record ID |
 
 ## Read operations
