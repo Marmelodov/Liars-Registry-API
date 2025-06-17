@@ -14,7 +14,7 @@ cd api <br/>
 
 ## Step 3: Use cURL or Postman to submit a request
 ```
-cURL data here
+curl http://localhost:3000/lies
 ```
 
 Postman TBD
