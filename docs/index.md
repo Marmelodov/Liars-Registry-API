@@ -32,7 +32,7 @@ After your system is ready, these tutorials show you how to perform common tasks
 * [Add a new liar](tutorials/add-a-new-liar.md)
 * [Add a new lie](tutorials/add-a-new-lie.md)
 * [Add a new subject](tutorials/add-a-new-subject.md)
-* [Delete a liar _(coming soon)_](#tutorials)
+* [Delete a liar](tutorials/delete-a-liar.md)
 
 ## API reference docs
 
