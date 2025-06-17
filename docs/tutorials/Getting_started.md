@@ -9,8 +9,8 @@ The files are located in the [Liars Registry API](https://github.com/tihsle/Liar
 - `start-server.bat`: a batch file that starts JSON Server. Use this for Windows.
 
 ## Step 2: Start JSON Server
-cd api <br/>
-./start-server.sh LiarsRegistryAPI.json
+cd <your-github-workspace>/Liars-Registry-API/api
+json-server -w LiarsRegistryAPI.json
 
 ## Step 3: Use cURL or Postman to submit a request
 ```
